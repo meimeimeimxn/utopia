@@ -242,13 +242,16 @@ body {
     transform: rotate(10deg) translate(0, -18%);
   }
 }
-
+.heading {
+  line-height: 40px;
+}
 .intro {
   margin-top: 10%;
   text-align: center;
   margin-bottom: 10px;
   font-size: 18px;
   color: #333;
+  line-height: 35px;
 }
 .Introduction {
   margin-top: 20px;
